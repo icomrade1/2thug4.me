@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    margin:0;
+}
+
+#text{
+    color:red;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+}
