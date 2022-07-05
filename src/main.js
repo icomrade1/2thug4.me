@@ -23,7 +23,6 @@ function musicPlay() {
     let cnt = (data.continent_name);
     document.getElementById("text").textContent = "      " +ip + "\n" + "     " + crt + ", " + cnt + "\n" + city + ", " + region + "\n" + " " + dude + ", " + brt;
     document.getElementById("second").textContent = city;
-    // so many more properties
   });
 
 
