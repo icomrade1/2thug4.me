@@ -5,7 +5,7 @@
 
 [![Build Status](https://img.shields.io/badge/YOU%20ARE-NOT%20SAFE-critical)](https://en.wikipedia.org/wiki/Fearmongering)
 
-2thug4.me is a scare-mongering website. Acting like an ip-grabber, it shows you your ip, along with some other information.
+2thug4.me is a scare-mongering website. Acting like an ip-grabber, it shows the user their ip, along with some other information.
 although they aren't actually stored anywhere and are just there only to scare the user.
 
 There's also an embed thug video that could be seen if you post the link on, for example, a discord channel.
