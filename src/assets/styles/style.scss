@@ -1,5 +1,9 @@
 body {
     background-color: black;
+    background-image: url(../images/dox.png);
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    background-size: cover;
     margin:0;
 }
 
@@ -10,4 +14,11 @@ body {
     align-items: center;
     display: flex;
     height: 100vh;
+    white-space: pre-wrap;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+#second{
+    color:red;
 }
