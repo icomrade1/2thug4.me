@@ -12,9 +12,8 @@ function musicPlay() {
     document.getElementById('popup').style.display = "none";
     document.removeEventListener('click', musicPlay);
 }
-
 const url = "https://thugger.vercel.app/info";
-async function getdata(){
+async function getdata() {
   const response = await fetch (url);
   const data = await response.json();
   let ip = (data.ip);
@@ -37,8 +36,8 @@ async function getdata(){
   else{
     document.getElementById("text").textContent = "Target Info:"+ "\n" + "\n" +"" +ip + "\n" + "" + crt + ", " + cnt + "\n" + city + ", " + region + "\n" + "" + dude + ", " + brt;
   }
-}
 
+}
 getdata();
 
-  
+
