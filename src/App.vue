@@ -12,7 +12,7 @@
 
  <span id="text">disable your extensions. now.</span></test>
 
-<a id="textt">look behind you.</a>
+<a id="textt">I am in control.</a>
  </body>
 </template>
 
