@@ -9,6 +9,7 @@ function json(url) {
   document.addEventListener('click', musicPlay);
 function musicPlay() {
     document.getElementById('player').play();
+    document.getElementById('popup').style.display = "none";
     document.removeEventListener('click', musicPlay);
 }
 
@@ -21,8 +22,9 @@ function musicPlay() {
     let brt = (data.longitude);
     let crt = (data.country_name);
     let cnt = (data.continent_name);
-    document.getElementById("text").textContent = "      " +ip + "\n" + "     " + crt + ", " + cnt + "\n" + city + ", " + region + "\n" + " " + dude + ", " + brt;
+    document.getElementById("text").textContent = "      Target Info:"+ "\n" + "\n" +"      " +ip + "\n" + "     " + crt + ", " + cnt + "\n" + city + ", " + region + "\n" + " " + dude + ", " + brt;
     document.getElementById("second").textContent = city;
+
   });
 
 
