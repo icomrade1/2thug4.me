@@ -18,6 +18,9 @@ It's simple.
 - Deploy or host the project. 
 - Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? 
 
+## Example:
+[![Build Status](https://img.shields.io/badge/YOU%20ARE-NOT%20SAFE-critical)](https://en.wikipedia.org/wiki/Fearmongering)
+
 ### Sidenote:
 This website will not work if somebody has an extension/something similar blocking the request made by the API. Instead, you'll see a placeholder text.
 
