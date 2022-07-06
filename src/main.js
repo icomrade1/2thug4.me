@@ -13,7 +13,7 @@ function musicPlay() {
     document.removeEventListener('click', musicPlay);
 }
 
-  let apiKey = '3bbd39cf30ae65e94f6625d5d86edb96727d6f25ac49c4f977df3ddd';
+  let apiKey = 'bb64be8e2517d29fa9f11891c754882ef04f5d503f2f6e97547a6dda';
   json(`https://api.ipdata.co?api-key=${apiKey}`).then(data => {
     let ip = (data.ip);
     let city = (data.city);
