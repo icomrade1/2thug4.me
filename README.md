@@ -18,6 +18,9 @@ It's simple.
 - Deploy or host the project. 
 - Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? 
 
+## Example:
+[![Build Status](https://cdn.discordapp.com/attachments/916373361452544000/994053973600378900/example.png)](https://en.wikipedia.org/wiki/Fearmongering)
+
 ### Sidenote:
 This website will not work if somebody has an extension/something similar blocking the request made by the API. Instead, you'll see a placeholder text.
 
