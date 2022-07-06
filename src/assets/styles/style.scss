@@ -5,6 +5,7 @@ body {
     background-position: center;
     background-size: cover;
     margin:0px;
+    
 }
 
 #text{
@@ -24,12 +25,10 @@ body {
 
 #textt{
     color:red;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
     display: flex;
+    justify-content: center;
     margin-top: 10px;
-    font-size: 10px;
+    font-size: 12px;
     white-space: pre-wrap;
     font-family: 'Open Sans', sans-serif;
     text-align: center;
