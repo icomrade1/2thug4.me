@@ -14,7 +14,7 @@ There's also an embed thug video that could be seen if you post the link on, for
 ## Wanna set it up for yourself?
 
 It's simple.
-- Download the project, make any changes you'd like to see and don't forget to change the ipdata.co api key.
+- Download the project, make any changes you'd like to see.
 - Deploy or host the project. 
 - Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? Are you sure you locked your front door? 
 
