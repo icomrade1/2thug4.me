@@ -17,10 +17,6 @@ async function getdata() {
   const response = await fetch (url);
   const data = await response.json();
   let ip = (data.ip);
-  let city = (data.city);
-  let region = (data.region);
-  let dude = (data.latitude);
-  let brt = (data.longitude);
   let crt = (data.country_name);
   let cnt = (data.continent_name);
   let proxy = (data.is_proxy);
@@ -34,9 +30,13 @@ async function getdata() {
     document.getElementById("text").textContent = "why are you in a tor browser, pussy?"
   }
   else{
-    document.getElementById("text").textContent = "Target Info:"+ "\n" + "\n" +"" +ip + "\n" + "" + crt + ", " + cnt + "\n" + city + ", " + region + "\n" + "" + dude + ", " + brt;
+    document.getElementById("text").textContent = "Target Info:"+ "\n" + "\n" +"" +ip + "\n" + "" + crt + ", " + cnt + "\n";
   }
 
+}
+
+async function changetitle() {
+  document.getElementById("title").textContent = window.location.href;
 }
 getdata();
 
